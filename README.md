@@ -20,3 +20,5 @@ For deleteing the data : you must enter StudentID(roll no) and email ID
 All students data must be displayed in tabular format as soon as user clicks display button
 
 Then as soon as the filter button is clicked, table rows should be highlighted with red background for those students who are having marks less than 40% in any of the subject.
+
+# Note:- Create database of name "student_marking_system" and table of name "student" in localhost/phpmyadmin.
