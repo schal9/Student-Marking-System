@@ -1,4 +1,4 @@
-# Student-Marking-System
+# Student Marking System
 Create 4 buttons - Insert, Delete, Display and Filter
 
 Create database for student marking system
